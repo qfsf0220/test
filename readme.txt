@@ -6,8 +6,6 @@ test readme
 555
 666
 777
-<<<<<<< HEAD
 999
-=======
 888
->>>>>>> feature1
+aaa
